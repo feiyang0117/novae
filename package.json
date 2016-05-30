@@ -1,0 +1,25 @@
+{
+  "name": "novae",
+  "version": "1.0.1",
+  "description": "It's a node http(s) server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run novae"
+  },
+  "keywords": [
+    "node serve"
+  ],
+  "author": "gaomiaofei <463112275@qq.com>",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiyang0117/novae.git"
+  },
+  "bugs": {
+    "url": "https://github.com/feiyang0117/novae/issues"
+  },
+  "homepage": "https://github.com/feiyang0117/novae#readme"
+}
