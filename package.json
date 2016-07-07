@@ -1,10 +1,11 @@
 {
   "name": "novae",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It's a node http(s) server",
   "main": "index.js",
   "scripts": {
-    "test": "npm run novae"
+    "test": "npm run novae",
+    "start" : "node ./lib/index.js"
   },
   "keywords": [
     "node serve"
