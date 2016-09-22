@@ -1,6 +1,6 @@
 {
   "name": "novae",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "It's a node http(s) server",
   "main": "index.js",
   "scripts": {
